@@ -17,6 +17,7 @@ li {
         rgb(251, 2, 97);
       }
       img {
-        width: 10px;  
-        height: auto;  
+        width: 100px;  
+        height: auto; 
+        justify-content: space-around; 
     }

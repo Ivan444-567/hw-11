@@ -2,9 +2,9 @@ li {
   list-style: none;
   }
   .box {
-  background-color: rgba(128, 0, 128, 0.889);
-  height: 1000px;
-  width: 1000px;
+  background-color: blue;
+  height: 500px;
+  width: 500px;
     display: flex ;
     flex-direction: row;
     justify-content:space-between;
@@ -12,12 +12,11 @@ li {
   .child {
       width: 100px;
       height: 100px;
-        background-color: rgb(35, 185, 72);
-      border: 1px solid 
-        rgb(251, 2, 97);
+        background-color: burlywood;
+      border: 3px solid rebeccapurple;
       }
       img {
-        width: 100px;  
+        width: 200px;  
         height: auto; 
         justify-content: space-around; 
     }

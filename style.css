@@ -15,7 +15,7 @@ li {
         background-color: burlywood;
       border: 3px solid rebeccapurple;
       }
-      img {
+      .box-img {
         width: 150px;  
         height: auto; 
         justify-content: space-around; 

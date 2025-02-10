@@ -3,7 +3,7 @@ li {
   }
   .box {
   background-color: blue;
-  height: 100px;
+  height: 1000px;
   width: 1000px;
     display: flex ;
     flex-direction: row;

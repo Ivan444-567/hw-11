@@ -19,4 +19,5 @@ li {
         width: 150px;  
         height: auto; 
         justify-content: space-around; 
+        padding: 20px;
     }

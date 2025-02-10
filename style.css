@@ -3,8 +3,8 @@ li {
   }
   .box {
   background-color: blue;
-  height: 500px;
-  width: 500px;
+  height: 100px;
+  width: 1000px;
     display: flex ;
     flex-direction: row;
     justify-content:space-between;
@@ -16,7 +16,7 @@ li {
       border: 3px solid rebeccapurple;
       }
       img {
-        width: 200px;  
+        width: 150px;  
         height: auto; 
         justify-content: space-around; 
     }
